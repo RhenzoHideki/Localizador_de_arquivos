@@ -1,0 +1,34 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/aluno/CLionProjects/LocalizadorDeArquivo/Diretorio.h
+sys/types.h
+-
+dirent.h
+-
+queue
+-
+tipos.h
+/home/aluno/CLionProjects/LocalizadorDeArquivo/tipos.h
+
+/home/aluno/CLionProjects/LocalizadorDeArquivo/main.cpp
+iostream
+-
+Diretorio.h
+/home/aluno/CLionProjects/LocalizadorDeArquivo/Diretorio.h
+stack
+-
+queue
+-
+
+/home/aluno/CLionProjects/LocalizadorDeArquivo/tipos.h
+string
+-
+ostream
+-
+

@@ -1,0 +1,1 @@
+/usr/bin/c++  -g   CMakeFiles/BuscadorArquivos.dir/main.cpp.o CMakeFiles/BuscadorArquivos.dir/Diretorio.cpp.o  -o BuscadorArquivos 
